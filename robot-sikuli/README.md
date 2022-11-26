@@ -1,5 +1,4 @@
 # robot-sikuli
-Repo usado na Live sobre Automação Desktop com Robot e Sikuli
 
 
 Você vai precisar das seguintes ferramentas e tecnologias:
